@@ -1,2 +1,3 @@
 # xiaduo-vn-media
-TikTok VN pawdition - 虾多啦 5款上架素材 (58图+4视频)
+
+Public image host for TikTok Shop VN listings (GitHub raw URLs).
